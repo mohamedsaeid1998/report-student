@@ -31,7 +31,7 @@ const Header = () => {
         </div>
 
         {/* notifactions */}
-        <div className="w-14 h-14 bg-white flex justify-center items-center">
+        <div className="w-14 h-14  flex justify-center items-center">
           <div className="relative ">
             <span className="w-2 h-2 bg-blue-500 rounded-full absolute right-0 mt-1" />
             <img src={notification} />
